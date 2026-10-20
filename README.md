@@ -25,6 +25,19 @@ obtenir** (vendeur, butin, quête, haut fait, réputation…). Idéal pour compl
 ## Utilisation
 En jeu : ouvre la fenêtre d'un métier, ou tape la commande `/arl`.
 
-## Crédits
-Addon original **Ackis Recipe List** (par Ackis et les mainteneurs communautaires). Ce dépôt sert
-uniquement à le **redistribuer et l'installer facilement** sur le serveur Ebonhold via le launcher.
+## Crédits et droits
+Addon original **Ackis Recipe List** : © 2009 **Ackis**, avec les mainteneurs Torhal, Pompachomp,
+Zhinjio et Jim-Bim. Le code est **tous droits réservés** à ses auteurs (seules les traductions sont
+dans le domaine public) ; il n'est pas sous licence libre.
+
+Ce dépôt sert uniquement à le **redistribuer tel quel** et à l'installer facilement sur le serveur
+Ebonhold via le launcher ; il n'apporte aucun code et n'accorde aucune licence. Il sera retiré sur
+simple demande des auteurs. Détails et licence d'origine : [NOTICE](NOTICE).
+
+---
+
+## English
+**Ackis Recipe List** v2.01 for WoW 3.3.5a, redistributed unmodified for the Ebonhold server.
+© 2009 Ackis (maintainers: Torhal, Pompachomp, Zhinjio, Jim-Bim); all rights reserved by its
+authors, localization entries in the public domain. This repository adds no code, grants no
+license and will be taken down on simple request from the authors. See [NOTICE](NOTICE).

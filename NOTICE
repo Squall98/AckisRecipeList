@@ -1,0 +1,54 @@
+Ackis Recipe List v2.01 - NOTICE
+================================
+
+[FR]
+
+Ce dépôt redistribue, sans modification, l'addon Ackis Recipe List v2.01 pour
+World of Warcraft 3.3.5a.
+
+Code : Copyright (c) 2009 Ackis. Tous droits réservés, sauf mention contraire
+explicite (licence d'origine reproduite ci-dessous). Auteurs et mainteneurs
+indiqués dans le fichier .toc : Torhal, Pompachomp, Ackis, Zhinjio, Jim-Bim.
+
+L'addon est redistribué tel quel, gratuitement, pour faciliter son installation
+par la communauté du serveur Ebonhold. Squall98 n'en est pas l'auteur, ne
+revendique aucun droit sur ce code et n'accorde aucune licence : les droits
+restent ceux définis par ses auteurs.
+
+Selon la licence d'origine, les entrées de traduction sont dans le domaine
+public. Les bibliothèques embarquées (Ace3, LibQTip-1.0, LibBabble,
+LibSharedMedia, etc.) restent sous la licence de leurs auteurs respectifs.
+
+Retrait : sur simple demande d'un des auteurs (issue sur ce dépôt ou message à
+Squall98), ce dépôt et ses releases seront retirés.
+
+[EN]
+
+This repository redistributes, unmodified, the Ackis Recipe List v2.01 addon for
+World of Warcraft 3.3.5a.
+
+Code: Copyright (c) 2009 Ackis. All rights reserved unless otherwise explicitly
+stated (original license reproduced below). Authors and maintainers listed in the
+.toc file: Torhal, Pompachomp, Ackis, Zhinjio, Jim-Bim.
+
+The addon is redistributed as is, free of charge, to make it easy to install for
+the Ebonhold server community. Squall98 is not its author, claims no rights over
+this code and grants no license: the rights remain those set by its authors.
+
+According to the original license, localization entries are in the public
+domain. Embedded libraries (Ace3, LibQTip-1.0, LibBabble, LibSharedMedia, etc.)
+remain under their respective authors' licenses.
+
+Takedown: on simple request from any of the authors (an issue on this repository
+or a message to Squall98), this repository and its releases will be removed.
+
+--------------------------------------------------------------------------------
+Licence d'origine / Original license
+(LICENSE.txt de l'archive AckisRecipeList v2.01, reproduit tel quel / verbatim)
+--------------------------------------------------------------------------------
+
+Copyright (c) 2009 Ackis
+
+All Rights Reserved unless otherwise explicitly stated.
+
+All localization entries are released to the public domain.
